@@ -2,5 +2,5 @@
 	"ip":"mcrpsmp.ml",
 	"port": "24533",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
